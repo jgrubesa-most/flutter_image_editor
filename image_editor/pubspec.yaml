@@ -12,9 +12,9 @@ dependencies:
     sdk: flutter
   image_editor_platform_interface: ^1.0.0
   image_editor_common: ^1.0.1
-  dependency_overrides:
-    image_editor_common:
-       path: ../image_editor_common
+dependency_overrides:
+  image_editor_common:
+    path: ../image_editor_common
   # image_editor_platform_interface:
   #   path: ../image_editor_platform_interface
 
